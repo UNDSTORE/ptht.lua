@@ -37,14 +37,14 @@ IgnoreCompletely = true
 
 --[Consumes][number]
 UseArroz = true
-UseClover = false
-UseSongpyeon = true
+UseClover = true
+UseSongpyeon = false
 
 --[Webhook PNB][true/false]
 --[Enable MakeRequest & os Bothax API for Webhook PNB]
 WebhookPNB = true
 WebhookLink = "https://discord.com/api/webhooks/1398716907917410355/bpqL47xVVhqooosbOFAf56QalLfUfF_RFsEgEWuksw7vAJmJgp-1n3S-blcZbbgvRxtU"
-DiscordID = 123456789
+DiscordID = 459256183929176064
 
 --[DON'T SCROLL DOWN!]
   DelayConvertDL = DelayConvertDL or 0
